@@ -6,10 +6,7 @@
 ## Hi there 👋
 
 ### About Me
-I'm a data scientist with a strong foundation in machine learning engineering and a mechanical engineering background. Passionate about data science, Python programming, music, and outdoor adventures, I'm always eager to explore new technologies and expand my skill set.
-
-### My Focus
-I'm dedicated to harnessing the power of data to drive innovation. My primary interests lie in applying machine learning techniques to solve complex problems. I'm a proactive learner who thrives on exploring cutting-edge tools and methodologies within the data science ecosystem.
+I'm a data scientist with a passion for uncovering hidden patterns in data. My engineering background provides a unique perspective on problem-solving, which I combine with my love for machine learning to create impactful solutions. When I'm not immersed in code, you can find me hiking through mountains or exploring new musical genres. My goal is to contribute to projects that make a positive impact on the world.
 
 ### Portfolio
 To see examples of my work and projects, visit my portfolio link below:
